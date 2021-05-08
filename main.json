@@ -1,0 +1,44 @@
+{
+    "jersey": [
+        {
+            "id": 0,
+            "name": "Barcelona",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Barcelona.png"
+        },
+        {
+            "id": 1,
+            "name": "CSK",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/CSK.png"
+        },
+        {
+            "id": 2,
+            "name": "England",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/England.png"
+        },
+        {
+            "id": 3,
+            "name": "India-Test",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/India-Test.png"
+        },
+        {
+            "id": 4,
+            "name": "India",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/India.png"
+        },
+        {
+            "id": 5,
+            "name": "KKR",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/KKR.png"
+        },
+        {
+            "id": 6,
+            "name": "RCB-Green",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/RCB-Green.png"
+        },
+        {
+            "id": 7,
+            "name": "RCB",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/RCB.png"
+        }
+    ]
+}
