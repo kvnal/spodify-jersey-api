@@ -3,97 +3,124 @@
         {
             "id": 0,
             "name": "Australia",
+            "skin":"#C58C74",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Australia.png"
         },
         {
             "id": 1,
             "name": "Barcelona",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Barcelona.png"
         },
         {
             "id": 2,
             "name": "Beach-Party",
+            "skin":"#D3A881",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Beach-Party.png"
         },
         {
             "id": 3,
             "name": "CSK",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/CSK.png"
         },
         {
             "id": 4,
             "name": "Delhi-Capitals",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Delhi-Capitals.png"
         },
         {
             "id": 5,
             "name": "England",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/England.png"
         },
         {
             "id": 6,
             "name": "Hyderabad",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Hyderabad.png"
         },
         {
             "id": 7,
             "name": "India-Test",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/India-Test.png"
         },
         {
             "id": 8,
             "name": "India",
+            "skin":"#EDAB9A",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/India.png"
         },
         {
             "id": 9,
             "name": "KKR",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/KKR.png"
         },
         {
             "id": 10,
             "name": "Mumbai",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Mumbai.png"
         },
         {
             "id": 11,
             "name": "NewZealand",
+            "skin":"#C58C74",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/NewZealand.png"
         },
         {
             "id": 12,
             "name": "Pakistan",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Pakistan.png"
         },
         {
             "id": 13,
             "name": "Punjab-Kings",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Punjab-Kings.png"
         },
         {
             "id": 14,
             "name": "Rajasthan",
+            "skin":"#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Rajasthan.png"
         },
         {
             "id": 15,
             "name": "RCB-Green",
+            "skin":"#C58C74",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/RCB-Green.png"
         },
         {
             "id": 16,
             "name": "RCB",
+            "skin":"#C58C74",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/RCB.png"
         },
         {
             "id": 17,
             "name": "The-Weeknd",
+            "skin":"#8C4E3B",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/The-Weeknd.png"
         },
         {
             "id": 18,
             "name": "Plain-White",
+            "skin":"#FFFFFF",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Plain-White.png"
+        },
+        {
+            "id": 19,
+            "name": "Supreme-Drip",
+            "skin":"#EFB38D",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Supreme-Jacket.png"
         }
+
+
     ]
 }
