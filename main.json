@@ -143,6 +143,18 @@
             "name": "Invertocat-Hoodie",
             "skin": "#E58F97",
             "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/Invertocat-Hoodie.png"
+        },
+        {
+            "id": 24,
+            "name": "India-WTC",
+            "skin": "#E58F97",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/India-WTC.png"
+        },
+        {
+            "id": 25,
+            "name": "NewZealand-WTC",
+            "skin": "#E58F97",
+            "url": "https://raw.githubusercontent.com/kvnal/spodify-jersey-api/main/assets/NewZealand-WTC.png"
         }
     ]
 }
